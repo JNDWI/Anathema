@@ -1,1 +1,1 @@
-# Providence - Overlay That Gives You Unfair Advantages
+# Providence - Overlay That Gives You Advantages
