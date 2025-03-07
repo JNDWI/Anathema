@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/enchant_book/power",
+        "layer1": "item/overlay/IV"
+    },
+    "display": {
+    "ground": {
+      "rotation": [0, 10, 0],
+      "translation": [0, 1, 0],
+      "scale": [1.2, 1.2, 1.2]
+    }
+  }
+}
